@@ -25,3 +25,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 91e5d492f9805154cb7ad2c9844e3560, type: 2}
   Jetpack:
   - {fileID: 11400000, guid: e3f989f236a43834aba1c5d48d433d76, type: 2}
+  GrenadeBeep:
+  - {fileID: 11400000, guid: dd68dd3d90c68e548bea6f8b171b716c, type: 2}
+  GrenadeShoot:
+  - {fileID: 11400000, guid: 025694ee6118db34a956de86944e7ba1, type: 2}
+  GrenadeExplode:
+  - {fileID: 11400000, guid: 97bcff42d5a4bc241b1b20eaa5a04f1a, type: 2}
