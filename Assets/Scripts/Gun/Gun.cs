@@ -75,8 +75,6 @@ public class Gun : MonoBehaviour
     {
         if (Input.GetMouseButton(0) && Time.time>= _lastFireTime) {
             OnShoot?.Invoke();
-            //sfx
-            //muzle flash
         }
     }
 
