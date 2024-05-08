@@ -8,9 +8,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5668825822823795850, guid: bb7034b41ca5522478be5db40b067b0f, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.28627452
+      objectReference: {fileID: 0}
+    - target: {fileID: 5668825822823795850, guid: bb7034b41ca5522478be5db40b067b0f, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.58431375
+      objectReference: {fileID: 0}
+    - target: {fileID: 5668825822823795850, guid: bb7034b41ca5522478be5db40b067b0f, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.909804
+      objectReference: {fileID: 0}
     - target: {fileID: 6602877679757666474, guid: bb7034b41ca5522478be5db40b067b0f, type: 3}
       propertyPath: m_Name
-      value: BaseDeathVFX
+      value: PlayerDeathVFX
       objectReference: {fileID: 0}
     - target: {fileID: 8414743052162237889, guid: bb7034b41ca5522478be5db40b067b0f, type: 3}
       propertyPath: m_LocalPosition.x

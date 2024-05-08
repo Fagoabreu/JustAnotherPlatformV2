@@ -31,3 +31,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 025694ee6118db34a956de86944e7ba1, type: 2}
   GrenadeExplode:
   - {fileID: 11400000, guid: 97bcff42d5a4bc241b1b20eaa5a04f1a, type: 2}
+  PlayerHit:
+  - {fileID: 11400000, guid: bef161f8ac1a6cf4b8f3fcd70bce6595, type: 2}
+  Megakill:
+  - {fileID: 11400000, guid: b0db7cf9b3c7d3843907a6f53d3dcbbf, type: 2}
